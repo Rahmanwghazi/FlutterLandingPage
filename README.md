@@ -1,16 +1,8 @@
-# flutter_web
+# Simple landing page built with Flutter
 
-A new Flutter project.
+![LP](https://user-images.githubusercontent.com/49003404/118296028-b9688c80-b506-11eb-8f76-9a532167fb5f.PNG)
 
-## Getting Started
++ Design: [ByCircle Header Website](https://pixel.buildwithangga.com/details/bycircle-header-website)
 
-This project is a starting point for a Flutter application.
++ Demo: https://flprahmanwghazi.netlify.app/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
